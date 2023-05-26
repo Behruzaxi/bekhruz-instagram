@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+          "id": 1,
+          "name": "Bekhruz",
+          "lastname": "Ergashev"
+        },
+        {
+          "name": "RYY",
+          "lastname": "5455",
+          "id": 2
+        },
+        {
+          "name": "FGGFG",
+          "lastname": "4343434",
+          "id": 3
+        },
+        {
+          "name": "behruz09@gmail.com",
+          "lastname": "parolyo1111",
+          "id": 4
+        },
+        {
+          "name": "su@gmail.com",
+          "lastname": "12222",
+          "id": 5
+        }
+      ]
+  }
